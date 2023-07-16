@@ -1,7 +1,7 @@
 
 
 # Java with Junit5 & RestAssured
-In this repo you will find some basic samples of Java code, alongside unit tests written in Junit5.
+In this repo you will find some basic samples of Java code, alongside unit tests written in Junit5, and API tests written in RestAssured.
 
 ## About the repo
 The repo is written in Java. It uses Gradle as a build tool, Junit5 for unit tests, and RestAssured for API tests.
